@@ -5,7 +5,8 @@ A repository to store progress on ML project.
 This playground can be mimic using ML to predict the severity (benign or malignant) of a mammographic mass lesion from BI-RADS attributes (our project has 3 features ['Shape','Margin',"Density"])and the patient's age.The ML model will be deployed to Heroku as a Flask app [viewable here](). The top 2 winner of all our tested ML models (LogisticRegression and SVC kernal rbf)will be used  to predit.
 Available models: (scaled data indicated)
 <p align="center">
-  <img src="#" alt="Process Diagram"/>
+  <img src="Machine-learning-in-Mammographic-Mass-Data/all_ML_models_validation.png
+      " alt="Process Diagram"/>
 </p>
 
 
