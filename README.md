@@ -15,4 +15,6 @@ BI-RADS attributes resource can be access by this link http://www.radiologyassis
 
 
 > Additional data visualization is hosted on Tableau Public [viewable here](https://public.tableau.com/views/MammographicMassDataML_preview/Dashboard1?:embed=y&:display_count=yes&publish=yes).
-
+<p align="center">
+  <img src="#" alt="Process Diagram"/>
+</p>
